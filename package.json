@@ -27,7 +27,7 @@
     "cache-manager": "^5.5.3",
     "cache-manager-redis-yet": "^5.0.1",
     "discord-api-types": "^0.37.85",
-    "fastify": "^4.27.0",
+    "fastify": "^5.0.0",
     "koreanbots": "^3.2.1",
     "mongoose": "^8.4.0",
     "reflect-metadata": "^0.1.14",
